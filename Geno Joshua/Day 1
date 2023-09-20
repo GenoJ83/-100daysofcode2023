@@ -1,0 +1,2 @@
+name = "Geno Joshua"
+print(f"Hello, {name}")
